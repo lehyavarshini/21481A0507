@@ -1,0 +1,15 @@
+Success: {
+  companyName: 'LearnTheTech',
+  clientID: '4a03dc68-47ba-4ed4-a60a-9213066f2806',
+  clientSecret: 'taHoICYeKfJPPRqA',
+  ownerName: 'Sandeep',
+  ownerEmail: 'sandeepmopidevi8537@gmail.com',     
+  rollNo: '21481A05D5'
+
+auth
+
+PS C:\Users\SANDEEP_PC\Downloads\CHE-FS> node .\request.js
+Success: {
+  token_type: 'Bearer',
+  access_token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiZXhwIjoxNzE5ODk5MzYyLCJpYXQiOjE3MTk4OTkwNjIsImlzcyI6IkFmZm9yZG1lZCIsImp0aSI6IjRhMDNkYzY4LTQ3YmEtNGVkNC1hNjBhLTkyMTMwNjZmMjgwNiIsInN1YiI6InNhbmRlZXBtb3BpZGV2aTg1MzdAZ21haWwuY29tIn0sImNvbXBhbnlOYW1lIjoiTGVhcm5UaGVUZWNoIiwiY2xpZW50SUQiOiI0YTAzZGM2OC00N2JhLTRlZDQtYTYwYS05MjEzMDY2ZjI4MDYiLCJjbGllbnRTZWNyZXQiOiJ0YUhvSUNZZUtmSlBQUnFBIiwib3duZXJOYW1lIjoiU2FuZGVlcCIsIm93bmVyRW1haWwiOiJzYW5kZWVwbW9waWRldmk4NTM3QGdtYWlsLmNvbSIsInJvbGxObyI6IjIxNDgxQTA1RDUifQ.9EIV0LM70Z0JJHkk-7cLJqAt4FuSYkGCP-ZbaMaoaMs',
+  expires_in: 1719899362
